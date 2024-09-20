@@ -1,7 +1,7 @@
 # SQL-Data-Cleaning
  Cleaning and Preparing Data on Global Layoffs
  
- I recently worked on a project looking at job losses around the world, using data that shows layoffs in different industries and areas. This project was a good chance to show my SQL skills and improve my data cleaning and problem-solving skills.
+ I recently worked on a project looking at job losses around the world, using data that shows layoffs in different industries and areas. Dataset was took from Kaggle. This project was a good chance to show my SQL skills and improve my data cleaning and problem-solving skills.
 
 Steps involved: 
 ✔ Importing Data: Data collected and loaded. 
